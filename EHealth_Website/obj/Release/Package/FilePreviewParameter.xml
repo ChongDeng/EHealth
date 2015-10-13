@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sjsu-ehealth" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Acer\\Documents\\Visual\ Studio\ 2013\\Projects\\EHealth\\EHealth\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Acer\\Documents\\Visual\ Studio\ 2013\\Projects\\EHealth\\EHealth\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="SQLServer-Web.config Connection String" description="" value="Data Source=tcp:j1z5j65sec.database.windows.net,1433;Initial Catalog=ehealth;User Id=ehealth@j1z5j65sec;Password=Dennis@1986" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Acer\\Documents\\Visual\ Studio\ 2013\\Projects\\EHealth\\EHealth\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SQLServer']/@connectionString" />
+  </parameter>
+</parameters>

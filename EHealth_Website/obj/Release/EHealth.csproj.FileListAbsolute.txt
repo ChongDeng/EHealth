@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\EHealth\EHealth\bin\EHealth.dll.config
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\EHealth\EHealth\bin\EHealth.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\EHealth\EHealth\bin\EHealth.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\EHealth\EHealth\bin\mysql.data.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\EHealth\EHealth\bin\mysql.web.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\EHealth\EHealth\obj\Release\EHealth.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\EHealth\EHealth\obj\Release\EHealth.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\EHealth\EHealth\obj\Release\EHealth.pdb
